@@ -19,8 +19,44 @@ export const robots = [
 	},
 	{
 		id: 4,
-		name: 'Esther',
+		name: 'Esther van Bemmelen',
 		username: 'Esther',
 		email: 'Esther@rubixmarketing.nl'
+	},
+	{
+		id: 5,
+		name: 'Henk',
+		username: 'Tank',
+		email: 'henk@rubixmarketing.nl'
+	},
+	{
+		id: 6,
+		name: 'Shirley',
+		username: 'Shirley',
+		email: 'Shirley@rubixmarketing.nl'
+	},
+	{
+		id: 7,
+		name: 'Fons Cornelissen',
+		username: 'Fons',
+		email: 'Fons@rubixmarketing.nl'
+	},
+	{
+		id: 8,
+		name: 'Frans Hendriks',
+		username: 'Frans',
+		email: 'Frans@rubixmarketing.nl'
+	},
+	{
+		id: 9,
+		name: 'Jeffrey Wijnen',
+		username: 'Jeffrey',
+		email: 'Jeffrey@rubixmarketing.nl'
+	},
+	{
+		id: 10,
+		name: 'Tom van den Hoogen',
+		username: 'Tom',
+		email: 'Tom@rubixmarketing.nl'
 	}
 ]
